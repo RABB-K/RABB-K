@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RABB-K
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning web developement 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rabbinkambere@gmail.com
+- 💞️ I’m looking to collaborate on web developement projects
+- 📫 How to reach me : rabbinkambere@gmail.com
   
 
 <!---
